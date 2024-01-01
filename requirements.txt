@@ -1,5 +1,4 @@
-﻿asgiref==3.7.2
-Django==3.2.12
+asgiref==3.7.2
+Django==3.2.12  # Use a version compatible with Python 3.9
 sqlparse==0.4.4
 tzdata==2023.3
-
